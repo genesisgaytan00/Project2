@@ -9,9 +9,8 @@ img{
     height: 500px;
     width: 500px;
     align-content: center;
-    border: saddlebrown;
-    
-    border-block-start-style: dotted;
+    border: 10px dotted saddlebrown;
+    border-radius: 50%;
 }
 iframe{
     height: 500px;
