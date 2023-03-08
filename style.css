@@ -35,6 +35,7 @@ nav a {
     padding: 15%;
     color: white;
 }
+
 nav a:hover {
     background-color:saddlebrown;
     color:tan;
