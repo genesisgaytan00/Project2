@@ -20,15 +20,12 @@ h1{
 }
 nav li {
     display: inline-block;
-    margin-right: 35px;
+    margin-right: 20px;
     color: gainsboro;
-}
-nav li:last-child {
-    margin-right: 0;
 }
 nav a {
     display: inline-block;
-    padding: 20px;
+    padding: 10px;
 }
 nav a:hover {
     background-color:saddlebrown;
