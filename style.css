@@ -22,5 +22,22 @@ h1{
 	text-align: center;
 	
 }
+nav li {
+    display: inline-block;
+    margin-right: 35px;
+  }
+  
+  nav li:last-child {
+    margin-right: 0;
+  }
+  
+  nav a {
+    display: inline-block;
+    padding: 20px;
+  }
+  
+  nav a:hover {
+    background-color:saddlebrown;
+  }
 
 
