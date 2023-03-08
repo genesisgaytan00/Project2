@@ -10,3 +10,14 @@ img{
     width: 400px;
 }
 
+h1{
+	font-size: 60px;
+	color: saddlebrown;
+	padding: 15px;
+    transition: transform 2000ms ease;
+	font-family: Times, "Times New Roman";
+	text-align: center;
+	
+
+}
+
