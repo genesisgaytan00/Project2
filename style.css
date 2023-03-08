@@ -21,6 +21,7 @@ h1{
 nav li {
     display: inline-block;
     margin-right: 35px;
+    color: gainsboro;
 }
 nav li:last-child {
     margin-right: 0;
