@@ -32,7 +32,10 @@ nav li {
 nav a {
     display: inline-block;
     padding: 10px;
+    color: white;
 }
+nav a.active,
+nav a:focus,
 nav a:hover {
     background-color:saddlebrown;
 }
