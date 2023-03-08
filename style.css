@@ -5,14 +5,11 @@ body{
     text-align: center;
     
 }
-
-
 img{
     height: 500px;
     width: 500px;
     align-content: center;
 }
-
 h1{
 	font-size: 60px;
 	color: saddlebrown;
@@ -20,24 +17,21 @@ h1{
     transition: transform 2000ms ease;
 	font-family: Times, "Times New Roman";
 	text-align: center;
-	
 }
 nav li {
     display: inline-block;
     margin-right: 35px;
-  }
-  
-  nav li:last-child {
+}
+nav li:last-child {
     margin-right: 0;
-  }
-  
-  nav a {
+}
+nav a {
     display: inline-block;
     padding: 20px;
-  }
+}
   
-  nav a:hover {
+nav a:hover {
     background-color:saddlebrown;
-  }
+}
 
 
