@@ -40,3 +40,7 @@ nav a:hover {
   background-color:saddlebrown;
   color:tan;
 }
+p{
+    line-height:2;
+    font-size: 20px;
+}
