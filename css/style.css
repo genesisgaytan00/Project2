@@ -41,16 +41,15 @@ nav a:hover {
   color:tan;
 }
 p{
-    line-height:2;
-    font-size: 20px;
+  line-height:2;
+  font-size: 20px;
 }
 .left {
-    float: left;
-    margin-right: 10%;
-    background: pink;
+  float: left;
+  margin-right: 30%;
   }
   
   .right {
-    float: right;
-    background: cyan;
+  float: right;
+  margin-left: 30%;
   }
