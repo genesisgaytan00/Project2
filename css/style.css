@@ -44,3 +44,12 @@ p{
     line-height:2;
     font-size: 20px;
 }
+.left {
+    float: left;
+    background: pink;
+  }
+  
+  .right {
+    float: right;
+    background: cyan;
+  }
