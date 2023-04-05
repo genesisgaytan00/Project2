@@ -5,8 +5,8 @@ body{
   text-align: center;
 }
 img{
-  height: 50vh;
-  width: 50vw;
+  height: 100vh;
+  width: 150vw;
   align-content: center;
   border: 10px dotted saddlebrown;
   border-radius: 50%;
